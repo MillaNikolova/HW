@@ -1,0 +1,51 @@
+html {
+  background-image: url(../images/crow.jpg);
+  background-color: #caaa6a;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  border: 20px outset #a58037;
+}
+.poem {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  max-width: 50%;
+  text-indent: 10%;
+  color: white;
+  font-size: 20px;
+}
+h1 {
+  text-align: center;
+  color: #e9c06d;
+  font-size: 40px;
+  font-variant: small-caps;
+}
+h2 {
+  text-align: center;
+  font-style: italic;
+  color: #322a1a;
+  font-size: 23px;
+  font-variant: small-caps;
+}
+
+.indent {
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-style: italic;
+}
+.underline {
+  border-bottom: 2px solid rgb(250, 171, 0);
+}
+.biography {
+  max-width: 100%;
+  border-top: 10px double #b0893b;
+  font-size: 20px;
+  font-weight: bold;
+  color: #f4c76c;
+}
+.source {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(26, 24, 24);
+}
