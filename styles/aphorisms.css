@@ -1,0 +1,35 @@
+html{
+    background-color: #d4d9dd;
+}
+table{ 
+  border-collapse: collapse;
+  border: 3px outset;
+  border-color: silver;
+  margin-left: auto;
+  margin-right: auto;
+}
+.a {
+  background-color: #41484e;
+  color: #ddd;
+}
+.b {
+    background-color: #5E6F7D;
+    color:#EEE;
+}
+th {
+    background-color: #2d3841;
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  width: 800px;
+  padding: 20px;
+  color: silver;
+}
+td {
+  padding: 15px;
+  font-variant: small-caps;
+}
+
+.quote {
+  font-style: italic;
+}
